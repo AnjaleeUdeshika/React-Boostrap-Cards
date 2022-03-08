@@ -116,7 +116,7 @@
   }
   
   @media all and (min-width: 767px) and (max-width: 1024px) {
-    .card {
+    .Main-Card {
       max-width: 250px;
       min-height: 100%;
       margin-left: 2%;
